@@ -1,0 +1,85 @@
+cause_code,description
+B01,Infectious and Parasitic Diseases
+B02,Infectious and Parasitic Diseases
+B03,Infectious and Parasitic Diseases
+B04,Infectious and Parasitic Diseases
+B05,Infectious and Parasitic Diseases
+B06,Infectious and Parasitic Diseases
+B07,Infectious and Parasitic Diseases
+B08,Neoplasms
+B09,Neoplasms
+B10,Neoplasms
+B11,Neoplasms
+B12,Neoplasms
+B13,Neoplasms
+B14,Neoplasms
+B15,Neoplasms
+B16,Neoplasms
+B17,Neoplasms
+B18,"Endocrine, Nutritional and Metabolic Diseases"
+B19,"Endocrine, Nutritional and Metabolic Diseases"
+B20,Diseases of the Blood and Blood-forming Organs
+B21,Mental Disorders
+B22,Diseases of the Nervous System
+B23,Diseases of the Nervous System
+B24,Diseases of the Nervous System
+B25,Diseases of the Circulatory System
+B26,Diseases of the Circulatory System
+B27,Diseases of the Circulatory System
+B28,Diseases of the Circulatory System
+B29,Diseases of the Circulatory System
+B30,Diseases of the Circulatory System
+B31,Diseases of the Respiratory System
+B32,Diseases of the Respiratory System
+B33,Diseases of the Digestive System
+B34,Diseases of the Digestive System
+B35,Diseases of the Genitourinary System
+B36,Diseases of the Genitourinary System
+B37,Diseases of the Genitourinary System
+B38,Obstetric Complications
+B39,Obstetric Complications
+B40,Obstetric Complications
+B41,Obstetric Complications
+B42,Diseases of the Skin and Subcutaneous Tissue
+B43,Diseases of the Musculoskeletal System and Connective Tissue
+B44,Congenital Anomalies
+B45,Certain Conditions originating in the Perinatal Period
+B46,"Symptoms, Signs and Ill-defined Conditions"
+B47,External Causes
+B48,External Causes
+B49,External Causes
+B50,External Causes
+B51,External Causes
+B52,External Causes
+B53,External Causes
+B54,External Causes
+B55,External Causes
+B56,External Causes
+B020,Respiratory Tuberculosis
+B021,Respiratory Tuberculosis
+S06,Venereal and other Infectious and Parasitic Diseases
+S08,Malignant Neoplasms
+S15,Benign and Unspecified Neoplasms and Carcinoma in situ
+S300,Atherosclerosis and other Arterial Diseases
+S310,Acute Respiratory Diseases
+S343,Hernia and Intestinal Obstruction
+S347,Cirrhosis and other Digestive Disorders
+S47,Accidents and Adverse Effects
+S019,Infectious and Parasitic Diseases
+S029,Infectious and Parasitic Diseases
+S039,Infectious and Parasitic Diseases
+S049,Infectious and Parasitic Diseases
+S059,Infectious and Parasitic Diseases
+S149,Neoplasms
+S189,"Endocrine, Nutritional and Metabolic Diseases"
+S229,Diseases of the Nervous System
+S309,Diseases of the Circulatory System
+S329,Diseases of the Respiratory System
+S349,Diseases of the Digestive System
+S359,Diseases of the Genitourinary System
+S399,Obstetric Complications
+S449,Congenital Anomalies
+S459,Certain Conditions originating in the Perinatal Period
+S469,"Symptoms, Signs and Ill-defined Conditions"
+S479,External Causes
+S08x,Neoplasms

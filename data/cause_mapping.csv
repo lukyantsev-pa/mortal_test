@@ -1,0 +1,14 @@
+list_type,table_name
+07A,icd_07a
+07B,icd_07b
+08A,icd_08a
+08B,icd_08b
+09A,icd_09m
+09B,icd_09m
+09N,icd_09n
+09C,icd_09c
+101,icd_101
+103,icd_10m
+104,icd_10m
+10M,icd_10m
+UE1,icd_ue1

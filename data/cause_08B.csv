@@ -1,0 +1,52 @@
+cause_code,description
+B000,All causes
+B001,Cholera
+B002,Typhoid fever
+B003,Bacillary dysentery and amoebiasis
+B004,Enteritis and other diarrhoeal diseases
+B005,Tuberculosis of respiratory system
+B006,"Other tuberculosis, including late effects"
+B007,Plague
+B008,Diphtheria
+B009,Whooping cough
+B010,Streptococcal sore throat and scarlet fever
+B011,Meningococcal infection
+B012,Acute poliomyelitis
+B013,Smallpox
+B014,Measles
+B015,Typhus and other rickettsioses
+B016,Malaria
+B017,Syphilis and its sequelae
+B018,All other infective and parasitic diseases
+B019,"Malignant neoplasms, including neoplasms of lymphatic and haematopoietic tissue"
+B020,Benign neoplasms and neoplasms of unspecified nature
+B021,Diabetes mellitus
+B022,Avitaminoses and other nutritional deficiency
+B023,Anaemias
+B024,Meningitis
+B025,Active rheumatic fever
+B026,Chronic rheumatic heart disease
+B027,Hypertensive disease
+B028,Ischaemic heart disease
+B029,Other forms of heart disease
+B030,Cerebrovascular disease
+B031,Influenza
+B032,Pneumonia
+B033,"Bronchitis, emphysema and asthma"
+B034,Peptic ulcer
+B035,Appendicitis
+B036,Intestinal obstruction and hernia
+B037,Cirrhosis of liver
+B038,Nephritis and nephrosis
+B039,Hyperplasia of prostate
+B040,Abortion
+B041,"Other complications of pregnancy, childbirth and the puerperium"
+B042,Congenital anomalies
+B043,"Birth injury, difficult labour and other anoxic and hypoxic conditions"
+B044,Other causes of perinatal mortality
+B045,Symptoms and ill-defined conditions
+B046,All other diseases
+B047,Motor vehicle accidents
+B048,All other accidents
+B049,Suicide and self-inflicted injuries
+B050,All other external causes

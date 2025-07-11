@@ -1,0 +1,154 @@
+cause_code,description
+A000,All causes
+A001,Cholera
+A002,Typhoid fever
+A003,Paratyphoid fever and other salmonella infections
+A004,Bacillary dysentery and amoebiasis
+A005,Enteritis and other diarrhoeal diseases
+A006,Tuberculosis of respiratory system
+A007,Tuberculosis of meninges and central nervous system
+A008,"Tuberculosis of intestines, peritoneum and mesenteric glands"
+A009,Tuberculosis of bones and joints
+A010,"Other tuberculosis, including late effects"
+A011,Plague
+A012,Anthrax
+A013,Brucellosis
+A014,Leprosy
+A015,Diphtheria
+A016,Whooping cough
+A017,Streptococcal sore throat and scarlet fever
+A018,Erysipelas
+A019,Meningococcal infection
+A020,Tetanus
+A021,Other bacterial diseases
+A022,Acute poliomyelitis
+A023,Late effects of acute poliomyelitis
+A024,Smallpox
+A025,Measles
+A026,Yellow fever
+A027,Viral encephalitis
+A028,Infectious hepatitis
+A029,Other viral diseases
+A030,Typhus and other rickettsioses
+A031,Malaria
+A032,Trypanosomiasis
+A033,Relapsing fever
+A034,Congenital syphilis
+A035,"Early syphilis, symptomatic"
+A036,Syphilis of central nervous system
+A037,Other syphilis
+A038,Gonococcal infections
+A039,Schistosomiasis
+A040,Hydatidosis
+A041,Filarial infection
+A042,Ancylostomiasis
+A043,Other helminthiases
+A044,All other infective and parasitic diseases
+A045,Malignant neoplasm of buccal cavity and pharynx
+A046,Malignant neoplasm of oesophagus
+A047,Malignant neoplasm of stomach
+A048,"Malignant neoplasm of intestine, except rectum"
+A049,Malignant neoplasm of rectum and rectosigmoid junction
+A050,Malignant neoplasm of larynx
+A051,"Malignant neoplasm of trachea, bronchus and lung"
+A052,Malignant neoplasm of bone
+A053,Malignant neoplasm of skin
+A054,Malignant neoplasm of breast
+A055,Malignant neoplasm of cervix uteri
+A056,Other malignant neoplasm of uterus
+A057,Malignant neoplasm of prostate
+A058,Malignant neoplasm of other and unspecified sites
+A059,Leukaemia
+A060,Other neoplasms of lymphatic and haematopoietic tissue
+A061,Benign neoplasms and neoplasms of unspecified nature
+A062,Non-toxic goitre
+A063,Thyrotoxicosis with or without goitre
+A064,Diabetes mellitus
+A065,Avitaminoses and other nutritional deficiency
+A066,Other endocrine and metabolic diseases
+A067,Anaemias
+A068,Other diseases of blood and blood-forming organs
+A069,Psychoses
+A070,"Neuroses, personality disorders and other non-psychotic mental disorders"
+A071,Mental retardation
+A072,Meningitis
+A073,Multiple sclerosis
+A074,Epilepsy
+A075,Inflammatory diseases of eye
+A076,Cataract
+A077,Glaucoma
+A078,Otitis media and mastoiditis
+A079,Other diseases of nervous system and sense organs
+A080,Active rheumatic fever
+A081,Chronic rheumatic heart disease
+A082,Hypertensive disease
+A083,Ischaemic heart disease
+A084,Other forms of heart disease
+A085,Cerebrovascular disease
+A086,"Diseases of arteries, arterioles and capillaries"
+A087,Venous thrombosis and embolism
+A088,Other diseases of circulatory system
+A089,Acute respiratory infections
+A090,Influenza
+A091,Viral pneumonia
+A092,Other pneumonia
+A093,"Bronchitis, emphysema and asthma"
+A094,Hypertrophy of tonsils and adenoids
+A095,Empyema and abscess of lung
+A096,Other diseases of respiratory system
+A097,Diseases of teeth and supporting structures
+A098,Peptic ulcer
+A099,Gastritis and duodenitis
+A100,Appendicitis
+A101,Intestinal obstruction and hernia
+A102,Cirrhosis of liver
+A103,Cholelithiasis and cholecystitis
+A104,Other diseases of digestive system
+A105,Acute nephritis
+A106,Other nephritis and nephrosis
+A107,Infections of kidney
+A108,Calculus of urinary system
+A109,Hyperplasia of prostate
+A110,Diseases of breast
+A111,Other diseases of genito-urinary system
+A112,Toxaemias of pregnancy and the puerperium
+A113,Haemorrhage of pregnancy and childbirth
+A114,Abortion induced for legal indications
+A115,Other and unspecified abortion
+A116,Sepsis of childbirth and the puerperium
+A117,"Other complications of pregnancy, childbirth and the puerperium"
+A118,Delivery without mention of complication
+A119,Infections of skin and subcutaneous tissue
+A120,Other diseases of skin and subcutaneous tissue
+A121,Arthritis and spondylitis
+A122,Non-articular rheumatism and rheumatism unspecified
+A123,Osteomyelitis and periostitis
+A124,Ankylosis and acquired musculoskeletal deformities
+A125,Other diseases of musculoskeletal system and connective tissue
+A126,Spina bifida
+A127,Congenital anomalies of heart
+A128,Other congenital anomalies of circulatory system
+A129,Cleft palate and cleft lip
+A130,All other congenital anomalies
+A131,Birth injury and difficult labour
+A132,Conditions of placenta and cord
+A133,Haemolytic disease of newborn
+A134,Anoxic and hypoxic conditions not elsewhere classified
+A135,Other causes of perinatal morbidity and mortality
+A136,Senility without mention of psychosis
+A137,Symptoms and other ill-defined conditions
+A138,Motor vehicle accidents
+A139,Other transport accidents
+A140,Accidental poisoning
+A141,Accidental falls
+A142,Accidents caused by fires
+A143,Accidental drowning and submersion
+A144,Accident caused by firearm missiles
+A145,Accidents mainly of industrial type
+A146,All other accidents
+A147,Suicide and self inflicted injury
+A148,Homicide and injury purposely inflicted by other persons; legal intervention
+A149,Injury undetermined whether accidentally or purposely inflicted
+A150,Injury resulting from operations of war
+S47,All accidental causes
+CH17,"Accidents, Poisoning, and Violence"

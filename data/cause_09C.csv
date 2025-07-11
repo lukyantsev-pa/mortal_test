@@ -1,0 +1,97 @@
+cause_code,description
+C001,All causes
+C002,Infectious and parasitic diseases
+C003,Selected infectious diseases
+C004,Typhoid and paratyphoid fevers
+C005,Shigellosis
+C006,Other intestinal infectious diseases
+C007,Pulmonary tuberculosis
+C008,"Tuberculosis, other forms"
+C009,Whooping cough
+C010,Meningococcal meningitis
+C011,Tetanus
+C012,Septicaemia
+C013,Measles
+C014,Japanese encephalities
+C015,Viral haemorrhagic fever
+C016,Viral hepatitis
+C017,Leptospirosis
+C018,Parasitic diseases
+C019,Malaria
+C020,Schistosomiasis
+C021,Neoplasms
+C022,Malignant neoplasms
+C023,Mal. neoplasms of nasopharynx
+C024,Mal. neoplasms of oesophagus
+C025,Mal. neoplasm of stomach
+C026,"Mal. neoplasm of colon, rectum, rectosigmoid junction and anus"
+C027,Mal. neoplasm of liver
+C028,"Mal. neoplasm of trachea, bronchus and lung"
+C029,Mal. neoplasm of female breast
+C030,Mal. neoplasm of cervix uteri
+C031,Malign neoplasm of bladder
+C032,Leukaemia
+C033,Benign neoplasms
+C034,"Endocrine, nutritional and metabolic diseases"
+C035,Diabetes mellitus
+C036,Diseases of blood and blood-forming organs
+C037,Anaemias
+C038,Mental disorders
+C039,Diseases of the nervous system
+C040,Meningitis
+C041,Diseases of the circulatory system
+C042,Acute rheumatic fever
+C043,Heart diseases
+C044,Chronic rheumatic heart disease
+C045,Hypertensive heart disease
+C046,Acute myocardial infarction
+C047,Other ischaemic heart disease
+C048,Pulmonary heart disease
+C049,Other forms of heart disease
+C050,Other hypertensive disease
+C051,Cerebrovascular disease
+C052,Disease of the respiratory system
+C053,Pneumonia
+C054,"Bronchitis, chronic and unspecified emphysema and asthma"
+C055,Pneumoconioses
+C056,Disease of digestive system
+C057,Ulcer of stomach and duodenum
+C058,Appendicitis
+C059,Intestinal obstruction
+C060,Chronic liver disease and cirrhosis
+C061,Disease of genitourinary system
+C062,"Nephritis, nephrotic syndrome and nephrosis"
+C063,Hyperplasia of prostate
+C064,"Complications of pregnancy, childbirth and puerperium"
+C065,Direct obstetric causes
+C066,Abortion
+C067,Toxaemia of pregnancy
+C068,Obstetrical trauma
+C069,Infections of the puerperium
+C070,Postpartum haemorrhage
+C071,Diseases of the musculoskeletal system and connective tissue
+C072,Congenital anomalies
+C073,Congenital anomalies of heart
+C074,Certain conditions originating in the perinatal period
+C075,"Slow fetal growth, fetal malnutrition and immaturity"
+C076,"Birth trauma, hypoxia, birth asphyxia and other respiratory conditions"
+C077,Tetanus neonatorum
+C078,Haemolytic disease of foetus or newborn
+C079,Sclerema neonatorum
+C080,Other specified diseases and symptoms
+C081,Ill-defined and unknown causes
+C089,External causes of injury and poisoning
+C090,Motor vehicle traffic accidents
+C091,Other transport accidents
+C092,Accidental poisoning
+C093,Accidental falls
+C094,Accidents caused by fire and flames
+C095,Accidents due to natural and environmental factors
+C096,Accidental drowning and submersion
+C097,Accidental mechanical suffocation
+C098,Struck accidentally by falling object
+C099,Accidents caused by machinery and by cutting and piercing instruments
+C100,Accidents caused by electric current
+C101,"Other accidents, adverse and late effects"
+C102,Suicide and self-inflicted injury
+C103,Homicide and injury purposely inflicted by other persons

@@ -1,0 +1,69 @@
+cause_code,description
+CH00,ALL CAUSES OF DEATH
+CH01,CERTAIN INFECTIOUS AND PARASITIC DISEASES
+UE02,Tuberculosis
+UE03,Meningococcal infection
+UE04,AIDS (HIV disease)
+UE05,Viral hepatitis
+CH02,NEOPLASMS
+UE07,Malignant neoplasms
+UE08,"of which malignant neoplasm of lip, oral cavity, pharynx"
+UE09,of which malignant neoplasm of oesophagus
+UE10,of which malignant neoplasm of stomach
+UE11,of which malignant neoplasm of colon
+UE12,of which malignant neoplasm of rectum and anus
+UE13,of which malignant neoplasm of liver and the intrahepatic bile ducts
+UE14,of which malignant neoplasm of pancreas
+UE15,of which malignant neoplasm of larynx and trachea/bronchus/lung
+UE16,of which malignant neoplasm of skin
+UE17,of which malignant neoplasm of breast
+UE18,of which malignant neoplasm of cervix uteri
+UE19,of which malignant neoplasm of other parts of uterus
+UE20,of which malignant neoplasm of ovary
+UE21,of which malignant neoplasm of prostate
+UE22,of which malignant neoplasm of kidney
+UE23,of which malignant neoplasm of bladder
+UE24,of which malignant neoplasm of lymph/haematopoietic tissue
+CH03,DISEASES OF THE BLOOD AND BLOOD-FORMING ORGANS AND CERTAIN DISORDERS INVOLVING THE IMMUNE MECHANISM
+CH04,"ENDOCRINE, NUTRITIONAL AND METABOLIC DISEASES"
+UE27,Diabetes mellitus
+CH05,MENTAL AND BEHAVIOURAL DISORDERS
+UE29,Mental and behavioural disorders due to the use of alcohol
+UE30,"Drug dependence, toxicomania"
+CH06,DISEASES OF THE NERVOUS SYSTEM
+CH07,DISEASES OF THE EYE AND ADNEXA
+CH08,DISEASES OF THE EAR AND MASTOID PROCESS
+UE32,meningitis (other than A39)
+CH09,DISEASES OF THE CIRCULATORY SYSTEM
+UE34,Ischaemic heart diseases
+UE35,Other heart diseases
+UE36,Cerebrovascular diseases
+CH10,DISEASES OF THE RESPIRATORY SYSTEM
+UE38,Influenza
+UE39,Pneumonia
+UE40,Chronic lower respiratory diseases
+UE41,of which asthma
+CH11,DISEASES OF THE DIGESTIVE SYSTEM
+UE43,"Ulcer of the stomach, duodenum and jejunum"
+UE44,Chronic liver disease
+CH12,DISEASES OF THE SKIN AND SUBCUTANEOUS TISSUE
+CH13,DISEASES OF THE MUSCULOSKELETAL SYSTEM/CONNECTIVE TISSUE
+UE47,Rheumatoid arthritis and osteoarthrosis
+CH14,DISEASES OF THE GENITOURINARY SYSTEM
+UE49,Diseases of the kidney and ureter
+CH15,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM"
+CH16,CERTAIN CONDITIONS ORIGINATING IN THE PERINATL PERIOD
+CH17,"CONGENITAL MALFORMATIONS, DEFORMATIONS AND CHROMOSOMAL ABNORMALTIES"
+UE53,Congenital malformations of the nervous system
+UE54,Congenital malformations of the circulatory system
+CH18,"SYMPTOMS, SIGNS AND ABNORMAL CLINICAL AND LABORATORY FINDINGS, NOT ELSEWHERE CLASSIFIED"
+UE56,Sudden infant death syndrome
+UE57,Uknown and unspecified causes
+CH20,EXTERNAL CAUSES OF INJURY AND POISONING
+UE59,Accidents
+UE60,of which transport accidents
+UE61,of which accidental falls
+UE62,of which accidental poisoning
+UE63,Suicide and intentional self-harm
+UE64,"Homicide, assault"
+UE65,Events of undetermined intent

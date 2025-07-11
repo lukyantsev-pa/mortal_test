@@ -1,0 +1,326 @@
+cause_code,description
+B00,All causes
+B01,Intestinal infectious diseases
+B010,Cholera
+B011,Typhoid fever
+B012,Shigellosis
+B013,Food poisoning
+B014,Amoebiasis
+B015,Intestinal infections due to other specified organism
+B016,Ill-defined intestinal infections
+B019,Remainder of B01
+B02,Tuberculosis
+B020,Pulmonary tuberculosis
+B021,Other respiratory tuberculosis
+B022,Tuberculosis of meninges and central nervous system
+B023,"Tuberculosis of intestines, peritoneum and mesenteric glands"
+B024,Tuberculosis of bones and joints
+B025,Tuberculosis of genitourinary system
+B029,Remainder of B02
+B03,Other bacterial diseases
+B030,Plague
+B031,Brucellosis
+B032,Leprosy
+B033,Diphtheria
+B034,Whooping cough
+B035,"Streptococcal sore throat, scarlatina and erysipelas"
+B036,Meningococcal infection
+B037,Tetanus
+B038,Septicaemia
+B039,Remainder of B03
+B04,Viral diseases
+B040,Acute poliomyelitis
+B041,Smallpox
+B042,Measles
+B043,Rubella
+B044,Yellow fever
+B045,Arthropod-borne encephalitis
+B046,Viral hepatitis
+B047,Rabies
+B048,Trachoma
+B049,Remainder of B04
+B05,Rickettsiosis and other arthropod-borne diseases
+B050,Louse-borne typhus
+B051,Other rickettsiosis
+B052,Malaria
+B053,Leishmaniasis
+B054,Trypanosomiasis
+B059,Remainder of B05
+B06,Venereal diseases
+B060,Syphilis
+B061,Gonococcal infections
+B069,Remainder of B06
+B07,Other infectious and parasitic diseases and late effects of infectious and parasitic diseases
+B070,Non-syphilitic spirochaetal diseases
+B071,Mycosis
+B072,Schistosomiasis
+B073,Echinococcosis
+B074,Filarial infection and dracontiasis
+B075,Ancylostomiasis and necatoriasis
+B076,Other helminthiasis
+B077,Late effects of tuberculosis
+B078,Late effects of acute poliomyelitis
+B079,Remainder of B07
+B08,"Malignant neoplasm of lip, oral cavity and pharynx"
+B09,Malignant neoplasm of digestive organs and peritoneum
+B090,Malignant neoplasm of oesophagus
+B091,Malignant neoplasm of stomach
+B092,"Malignant neoplasm of small intestine, including duodenum"
+B093,Malignant neoplasm of colon
+B094,"Malignant neoplasm of rectum, rectosigmoid junction and anus"
+B095,"Malignant neoplasm of liver, specified as primary"
+B096,Malignant neoplasm of pancreas
+B099,Remainder of B09
+B10,Malignant neoplasm of respiratory and intrathoracic organs 160-165
+B100,Malignant neoplasm of larynx
+B101,"Malignant neoplasm of trachea, bronchus and lung"
+B109,Remainder of B10
+B11,"Malignant neoplasm of bone, connective tissue, skin and breast"
+B110,Malignant neoplasm of bone and articular cartilage
+B111,Malignant melanoma of skin
+B112,Other malignant neoplasm of skin
+B113,Malignant neoplasm of female breast
+B119,Remainder of B11
+B12,Malignant neoplasm of genitourinary organs
+B120,Malignant neoplasm of cervix uteri
+B121,Malignant neoplasm of placenta
+B122,"Malignant neoplasm of uterus, other and unspecified"
+B123,Malignant neoplasm of ovary and other uterine adnexa
+B124,Malignant neoplasm of prostate
+B125,Malignant neoplasm of testis
+B126,Malignant neoplasm of bladder
+B129,Remainder of B12
+B13,Malignant neoplasm of other and unspecified sites
+B130,Malignant neoplasm of brain
+B139,Remainder of B13
+B14,Malignant neoplasm of lymphatic and haemopoietic tissue
+B140,Hodgkin's disease
+B141,Leukaemia
+B149,Remainder of B14
+B15,Benign neoplasm
+B150,Benign neoplasm of skin
+B151,Benign neoplasm of breast
+B152,Benign neoplasm of uterus
+B153,Benign neoplasm of ovary
+B154,Benign neoplasm of kidney and other urinary organs
+B155,Benign neoplasm of nervous system
+B156,Benign neoplasm of thyroid
+B159,Remainder of B15
+B16,Carcinoma in situ
+B17,Other and unspecified neoplasm
+B18,"Endocrine and metabolic diseases, immunity disorders"
+B180,Disorders of thyroid gland
+B181,Diabetes mellitus
+B182,Hyperlipoproteinaemia
+B183,Obesity of non-endocrine origin
+B184,Human immunodeficiency virus [HIV] disease [AIDS]
+B185,AIDS-related complex
+B189,Remainder of B18
+B19,Nutritional deficiencies
+B190,Kwashiorkor
+B191,Nutritional marasmus
+B192,Other protein-calorie malnutrition
+B193,Avitaminosis
+B199,Remainder of B19
+B20,Diseases of blood and blood-forming organs
+B200,Anaemias
+B209,Remainder of B20
+B21,Mental disorders
+B210,Senile and presenile organic psychotic conditions
+B211,Schizophrenic psychoses
+B212,Affective psychoses
+B213,Other psychoses
+B214,Neurotic and personality disorders
+B215,Alcohol dependence syndrome
+B216,Drug dependence
+B217,Physiological malnutrition arising from mental factors
+B218,Mental retardation
+B219,Remainder of B21
+B22,Diseases of the nervous system
+B220,Meningitis
+B221,Parkinson's disease
+B222,Other degenerative and hereditary disorders of the central nervous system
+B223,Multiple sclerosis
+B224,Infantile cerebral palsy and other paralytic syndromes
+B225,Epilepsy
+B229,Remainder of B22
+B23,Disorders of the eye and adnexa
+B230,Glaucoma
+B231,Cataract
+B232,Blindness and low vision
+B233,Conjunctivitis
+B234,Disorders of lacrimal system
+B235,Strabismus and other disorders of binocular eye movements
+B239,Remainder of B23
+B24,Diseases of the ear and mastoid process
+B240,Otitis media and mastoiditis
+B241,Deafness
+B249,Remainder of B24
+B25,Rheumatic fever and rheumatic heart disease
+B250,Acute rheumatic fever
+B251,Chronic rheumatic heart disease
+B259,Remainder of B25
+B26,Hypertensive disease
+B260,Hypertensive heart disease
+B269,Remainder of B26
+B27,Ischaemic heart disease
+B270,Acute myocardial infarction
+B279,Remainder of B27
+B28,Diseases of pulmonary circulation and other forms of heart disease
+B280,Pulmonary embolism
+B281,Cardiac dysrhythmias
+B289,Remainder of B28
+B29,Cerebrovascular disease
+B290,Subarachnoid haemorrhage
+B291,Intracerebral and other intracranial haemorrhage
+B292,Cerebral infarction
+B293,Acute but ill-defined cerebrovascular disease
+B294,Cerebral atherosclerosis
+B299,Remainder of B29
+B30,Other diseases of the circulatory system
+B300,Atherosclerosis
+B301,Arterial embolism and thrombosis
+B302,"Other diseases of arteries, arterioles and capillaries"
+B303,"Phlebitis, thrombophlebitis, venous embolism and thrombosis"
+B304,Varicose veins of lower extremities
+B305,Haemorrhoids
+B309,Remainder of B30
+B31,Diseases of the upper respiratory tract
+B310,Acute tonsillitis
+B311,Acute laryngitis and tracheitis
+B312,Other acute upper respiratory infections
+B313,Deflected nasal septum and nasal polyps
+B314,"Chronic pharyngitis, nasopharyngitis and sinusitis"
+B315,Chronic diseases of tonsils and adenoids
+B319,Remainder of B31
+B32,Other diseases of the respiratory system
+B320,Acute bronchitis and bronchiolitis
+B321,Pneumonia
+B322,Influenza
+B323,"Bronchitis, chronic and unspecified, emphysema and asthma"
+B324,Bronchiectasis
+B325,Other chronic obstructive pulmonary disease
+B326,Pneumoconiosis and other lung disease due to external agents
+B327,Pleurisy
+B329,Remainder of B32
+B33,"Diseases of oral cavity, salivary glands and jaws"
+B330,Diseases of teeth and supporting structures
+B331,Diseases of the jaws
+B339,Remainder of B33
+B34,Diseases of other parts of the digestive system
+B340,Diseases of oesophagus
+B341,Ulcer of stomach and duodenum
+B342,Appendicitis
+B343,Hernia of abdominal cavity
+B344,Intestinal obstruction without mention of hernia
+B345,Diverticula of intestine
+B346,Other functional digestive disorders
+B347,Chronic liver disease and cirrhosis
+B348,Cholelithiasis and cholecystitis
+B349,Remainder of B34
+B35,Diseases of urinary system
+B350,"Nephritis, nephrotic syndrome and nephrosis"
+B351,Infections of kidney
+B352,Urinary calculus
+B353,Cystitis
+B359,Remainder of B35
+B36,Diseases of male genital organs
+B360,Hyperplasia of prostate
+B361,Hydrocele
+B362,Redundant prepuce and phimosis
+B363,"Infertility, male"
+B369,Remainder of B36
+B37,Diseases of female genital organs
+B370,Diseases of breast
+B371,Salpingitis and oophoritis
+B372,Inflammatory diseases of pelvic cellular tissue and peritoneum
+B373,"Inflammatory diseases of uterus, vagina and vulva"
+B374,Uterovaginal prolapse
+B375,Menstrual disorders
+B376,"Infertility, female"
+B379,Remainder of B37
+B38,Abortion
+B380,Spontaneous abortion
+B381,Legally induced abortion
+B382,Illegally induced abortion
+B389,Remainder of B38
+B39,Direct obstetric causes
+B390,Haemorrhage of pregnancy and childbirth
+B391,Toxaemia of pregnancy
+B392,Infections of genitourinary tract in pregnancy
+B393,Obstructed labour
+B394,Complications of the puerperium
+B399,Remainder of B39
+B40,Indirect obstetric causes
+B41,Normal delivery
+B42,Diseases of skin and subcutaneous tissue
+B420,Infections of skin and subcutaneous tissue
+B429,Remainder of B42
+B43,Diseases of the musculoskeletal system and connective tissue
+B430,"Rheumatoid arthritis, except spine"
+B431,Other arrhropathies
+B432,Other disorders of joints
+B433,Ankylosing spondylitis
+B434,Other dorsopathies;
+B435,"Rheumatism, excluding the back"
+B436,"Osteomyelitis, periostitis and other infections involving bone"
+B437,Acquired deformities of limbs
+B439,Remainder of B43
+B44,Congenital anomalies
+B440,Spina bifida and hydrocephalus
+B441,Other deformities of central nervous system
+B442,Congenital anomalies of heart and circulatory system
+B443,Cleft palate and cleft lip
+B444,Other deformities of digestive system
+B445,Undescended testicle
+B446,Congenital dislocation of hip
+B447,Other congenital anomalies of musculoskeletal system
+B449,Remainder of B44
+B45,Certain conditions originating in the perinatal period
+B450,Maternal conditions affecting fetus or newborn
+B451,Obstetric complications affecting fetus or newborn
+B452,"Slow fetal growth, fetal malnutrition and immaturity"
+B453,Birth trauma
+B454,"Hypoxia, birth asphyxia and other respiratory conditions"
+B455,Haemolytic disease of fetus or newborn
+B459,Remainder of B45
+B46,"Signs, symptoms and ill-defined conditions"
+B460,Pyrexia of unknown origin
+B461,Symptoms involving heart
+B462,Renal colic
+B463,Retention of urine
+B464,Abdominal pain
+B465,Senility without mention of psychosis
+B466,Sudden infant death syndrome
+B467,Respiratory failure
+B469,Remainder of B46
+B47,Transport accidents
+B470,Railway accidents
+B471,Motor vehicle traffic accidents
+B472,Other road vehicle accidents
+B473,Water transport accidents
+B474,Air and space transport accidents
+B479,Remainder of B47
+B48,Accidental poisoning
+B480,"Accidental poisoning by drugs, medicaments and biologicals"
+B481,Accidental poisoning by other solid and liquid substances
+B482,Accidental poisoning by gases and vapours
+B49,"Misadventures during medical care, abnormal reactions, late complications"
+B50,Accidental falls
+B51,Accidents caused by fire and flames
+B52,"Other accidents, including late effects"
+B520,Accidents due to natural and environmental factors
+B521,Accidental drowning and submersion
+B522,Foreign body accidentally entering orifice
+B523,"Accidents caused by machinery, and by cutting and piercing instruments"
+B524,Accidents caused by firearm missile
+B529,Remainder of B52
+B53,"Drugs, medicaments causing adverse effects in therapeutic use"
+B54,Suicide and self-inflicted injury
+B55,Homicide and injury purposely inflicted by other persons
+B56,Other violence
+B560,Injury undetermined whether accidentally or purposely inflicted
+B561,Injury resulting from operation of war
+B569,Remainder of B56
+S47,All accidental causes
+CH17,Injury and Poisoning

@@ -1,0 +1,52 @@
+cause_code,description
+B000,All causes
+B001,Tuberculosis of respiratory system
+B002,"Tuberculosis, other forms"
+B003,Syphilis and its sequelae
+B004,Typhoid fever
+B005,Cholera
+B006,"Dysentery, all forms"
+B007,Scarlet fever and streptococcal sore throat
+B008,Diphtheria
+B009,Whooping cough
+B010,Meningococcal infections
+B011,Plague
+B012,Acute poliomyelitis
+B013,Smallpox
+B014,Measles
+B015,Typhus and other rickettsial diseases
+B016,Malaria
+B017,All other diseases classified as infective and parasitic
+B018,"Malignant neoplasms, including neoplasms of lymphatic and haematopoietic tissues"
+B019,Benign neoplasms and neoplasms of unspecified nature
+B020,Diabetes mellitus
+B021,Anaemias
+B022,Vascular lesions affecting central nervous system
+B023,Non-meningococcal meningitis
+B024,Rheumatic fever
+B025,Chronic rheumatic heart disease
+B026,Arteriosclerotic and degenerative heart disease
+B027,Other diseases of heart
+B028,Hypertension with heart disease
+B029,Hypertension without mention of heart
+B030,Influenza
+B031,Pneumonia
+B032,Bronchitis
+B033,Ulcer of stomach and duodenum
+B034,Appendicitis
+B035,Intestinal obstruction and hernia
+B036,"Gastritis, duodenitis, enteritis, and colitis, except diarrhoea of the newborn"
+B037,Cirrhosis of liver
+B038,Nephritis and nephrosis
+B039,Hyperplasia of prostate
+B040,"Deliveries and complications of pregnancy, childbirth, and the puerperium"
+B041,Congenital malformations
+B042,"Birth injuries, postnatal asphyxia and atelectasis"
+B043,Infections of the newborn
+B044,"Other diseases peculiar to early infancy, and immaturity unqualified"
+B045,"Senility without mention of psychosis, ill-defined and unknown causes"
+B046,All other diseases
+B047,Motor vehicle accidents
+B048,All other accidents
+B049,Suicide and self-inflicted injury
+B050,Homicide and operations of war
